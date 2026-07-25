@@ -1,1 +1,2 @@
 new Functionality - OTP validation
+2FA requirements
